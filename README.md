@@ -1,4 +1,4 @@
-# robotic-arm
+# Arduino Robotics Arm
 
 ## Materials ##
 ## Robotic Arm Electronics ##
