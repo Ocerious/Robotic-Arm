@@ -1,4 +1,4 @@
-# robotic-arm-YR11-T4
+# robotic-arm
 
 ## Materials ##
 ## Robotic Arm Electronics ##
