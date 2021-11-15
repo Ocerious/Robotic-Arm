@@ -26,7 +26,7 @@ The following are all the parts that are required:
 - Arduino Nano </br>
 - 3 x Resistors (10k) </br>
 - Resistors (220R) </br>
-- Glove </br>
+- Durable Glove </br>
 - 9V Battery </br>
 - 9V Batter Clip </br>
 - 3 x Capacitor (100nF) </br>
