@@ -1,5 +1,5 @@
 # Arduino Robotics Arm
-Arduino project for my year 11, term 4 robotics class.
+Arduino project for my robotics class.
 
 ## Materials ##
 ## Robotic Arm Electronics ##
