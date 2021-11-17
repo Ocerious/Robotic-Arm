@@ -2,7 +2,7 @@
 Arduino project for my robotics class.
 
 ## Materials ##
-## Robotic Arm Electronics ##
+## Robotic Arm ##
 The following are all the parts that are required:
 
 <h3>Parts</h3>
@@ -17,7 +17,7 @@ The following are all the parts that are required:
 - A4988 Stepper Motor Driver </br>
 - LiPo 11.1V, 2200mAh, 3s </br>
 
-## Glove Electronics ##
+## Glove ##
 The following are all the parts that are required:
 
 <h3>Parts</h3>
