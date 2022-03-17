@@ -5,7 +5,7 @@ Arduino project for my robotics class.
 <h3>Robotic Arm</h3>
 The following are all the parts that are required:
 
-**Parts**
+<h4>Parts</h4>
 - 6 x Servo Motor - MG966R Series </br>
 - Servo Driver, PCA9685 </br>
 - Battery Pack (5V, 2200 mAh) </br>
@@ -20,7 +20,7 @@ The following are all the parts that are required:
 <h3>Glove</h3>
 The following are all the parts that are required:
 
-**Parts**
+<h4>Parts</h4>
 - 3 x Flex Sensor </br>
 - 2 x MPU6050 (Accelerometer) </br>
 - Arduino Nano </br>
