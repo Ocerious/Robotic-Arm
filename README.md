@@ -2,10 +2,10 @@
 Arduino project for my robotics class.
 
 ## Materials
-###### Robotic Arm
+<h3>Robotic Arm</h3>
 The following are all the parts that are required:
 
-<h3>Parts</h3>
+###### Parts
 - 6 x Servo Motor - MG966R Series </br>
 - Servo Driver, PCA9685 </br>
 - Battery Pack (5V, 2200 mAh) </br>
@@ -17,10 +17,10 @@ The following are all the parts that are required:
 - A4988 Stepper Motor Driver </br>
 - LiPo 11.1V, 2200mAh, 3s </br>
 
-###### Glove
+<h3>Glove</h3>
 The following are all the parts that are required:
 
-<h3>Parts</h3>
+###### Parts
 - 3 x Flex Sensor </br>
 - 2 x MPU6050 (Accelerometer) </br>
 - Arduino Nano </br>
