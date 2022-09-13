@@ -15,7 +15,7 @@ I built a robotic glove that uses your hand motions to control a six-axis robot.
 - Control the robot with human gestures
 - Can be pre-programmed to carry out basic functions
 - Can be controlled wirelessly from a range
-- Can hold a load weight 600g (Max Load 1kg)
+- Can hold a load weight 600g (Max load 1kg)
 
 ## ?
 ### What sensors will be used by the glove?
