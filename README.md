@@ -65,3 +65,5 @@ The Arduino Robotic Arm communicates over Bluetooth using the HC-05 modules.
 |----------------------|---------------|
 | Robotics Glove HC-05 | Master        |
 | Robotics Arm HC-05   | Slave         |
+
+## In Depth - Arm Materials
