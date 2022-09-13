@@ -8,7 +8,6 @@ There are hundreds of robotic arm kits that are available online, but they are p
 But no worries—the internet is a great tool with a tonne of online resources I can use.
 The theory behind what I'm learning to make still holds true since Thingiverse includes listings of many robots that use servo motors and because each project explains how the 3D models were created. 
 
-
 ## Description
 I built a robotic glove that uses your hand motions to control a six-axis robot. The robotic arm can be opened, closed, or rotated by mirroring simple movements like pinching or rotating your wrist. Essentially just using your hand to guide a robotic arm.
 - 6 axis (DoF)
