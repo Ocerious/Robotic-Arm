@@ -6,6 +6,8 @@ There are hundreds of robotic arm kits that are available online, but they are p
 </br></br>
 But no worries—the internet is a great tool with a tonne of online resources I can use.
 The theory behind what I'm learning to make still holds true since Thingiverse includes listings of many robots that use servo motors and because each project explains how the 3D models were created. 
+</br></br>
+I've also noticed that a lot of online robotic arm projects are quite top heavy, with a hefty stepper motor (typically a NEMA 17) used to be a stronger motor and to weigh down the base. So I'll do the same straight away. Because of its accuracy and high torque, a stepper motor like the NEMA-17 may also be employed to enable the robotic arm spin fluidly to gesture inputs.
 
 ## Description
 I built a robotic glove that uses your hand motions to control a six-axis robot. The robotic arm can be opened, closed, or rotated by mirroring simple movements like pinching or rotating your wrist. Essentially just using your hand to guide a robotic arm.
