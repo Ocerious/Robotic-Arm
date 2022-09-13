@@ -2,7 +2,7 @@
 Arduino project for my robotics class.
 
 ## Materials
-<h3>Robotic Arm</h3>
+<h3>Arm</h3>
 The following are all the parts that are required:
 
 <h4>Parts</h4>
