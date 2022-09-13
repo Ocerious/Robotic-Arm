@@ -1,4 +1,4 @@
-# Arduino Robotics Arm
+# Robotics Technical Innovation Showcase
 Arduino project for my robotics class.
 
 ## Materials
