@@ -1,5 +1,5 @@
 # Robotics Innovation Showcase
-What if we could make a smaller version of the same industrial robots companies like Amazon and Tesla use in their factories?
+<b>What if we could make a smaller version of the same industrial robots companies like Amazon and Tesla use in their factories?</b>
 </br></br>
 This project is an attempt to accomplish that goal. A hand gesture controlled Arduino robot arm that can be programmed and controlled.
 
