@@ -19,12 +19,6 @@ I built a robotic glove that uses your hand motions to control a six-axis robot.
 - Can be controlled wirelessly from a range
 - Can hold a load weight 600g (Max load 1kg)
 
-## ?
-### What sensors will be used by the glove?
-It will make use of flex sensors as well as an accelerometer (MPU6050). A change in the glove will be detected by the flex sensors. It will then communicate a certain value mapped to a gesture to the robotic arm via Bluetooth to then drive a servo motor.
-- Flex Sensors - The resistance of this plastic piece changes according on the degree of bend, altering the current. This measurement is then utilised to identify variations in hand movement.
-- Accelerometers - An accelerometer can detect a shift in arm and wrist movement for more lifelike motions.
-
 ## Materials
 The following are all the parts that are required for both the arm and glove, which I either bought from Jaycar or AliExpress.
 
@@ -52,3 +46,22 @@ The following are all the parts that are required for both the arm and glove, wh
 - 3 x Capacitor (100nF)
 - Arduino HC-05
 - Braided Cable Sleeve
+
+## ?
+### What sensors will be used by the glove?
+It will make use of flex sensors as well as an accelerometer (MPU6050). A change in the glove will be detected by the flex sensors. It will then communicate a certain value mapped to a gesture to the robotic arm via Bluetooth to then drive a servo motor.
+- Flex Sensors - The resistance of this plastic piece changes according on the degree of bend, altering the current. This measurement is then utilised to identify variations in hand movement.
+- Accelerometers - An accelerometer can detect a shift in arm and wrist movement for more lifelike motions.
+
+#### The glove consists of the following components:
+- Flex Sensor –  Based on the bend of the finger, the current changes which we could use to send a signal to the motor.
+- Accelerometer (MPU6050) – We can control the motor by mapping human gestures from X, Y, Z plane.
+- LED – The LED will light up when a human gesture control has been sent to the Arduino.
+- Bluetooth (HC-05) Module – Sending data to the arm HC-05 receiver.
+- Arduino Nano – The microcontroller would perform as the brains of the glove.
+
+The Arduino Robotic Arm communicates over Bluetooth using the HC-05 modules.
+| Module               | Configuration |
+|----------------------|---------------|
+| Robotics Glove HC-05 | Master        |
+| Robotics Arm HC-05   | Slave         |
