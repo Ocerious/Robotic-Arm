@@ -2,6 +2,12 @@
 <b>What if we could make a smaller version of the same industrial robots companies like Amazon and Tesla use in their factories?</b>
 </br></br>
 This project is an attempt to accomplish that goal. A hand gesture controlled Arduino robot arm that can be programmed and controlled.
+</br></br>
+There are hundreds of robotic arm kits that are available online, but they are pricey, and I wouldn't learn as much if I built my own from scratch. Therefore, 3D printing the parts is far more affordable and will help me learn more about how to create robotic projects in the future.
+</br></br>
+But no worries—the internet is a great tool with a tonne of online resources I can use.
+The theory behind what I'm learning to make still holds true since Thingiverse includes listings of many robots that use servo motors and because each project explains how the 3D models were created. 
+
 
 ## Description
 I built a robotic glove that uses your hand motions to control a six-axis robot. The robotic arm can be opened, closed, or rotated by mirroring simple movements like pinching or rotating your wrist. Essentially just using your hand to guide a robotic arm.
@@ -14,10 +20,9 @@ I built a robotic glove that uses your hand motions to control a six-axis robot.
 - Can hold a load weight 600g (Max Load 1kg)
 
 ## Materials
-### Arm
-The following are all the parts that are required:
+The following are all the parts that are required for both the arm and glove, which I either bought from Jaycar or AliExpress.
 
-#### Parts
+### Arm
 - 6 x Servo Motor - MG966R Series
 - Servo Driver, PCA9685
 - Battery Pack (5V, 2200 mAh)
@@ -30,9 +35,6 @@ The following are all the parts that are required:
 - LiPo 11.1V, 2200mAh, 3s
 
 ### Glove
-The following are all the parts that are required:
-
-#### Parts
 - 3 x Flex Sensor
 - 2 x MPU6050 (Accelerometer)
 - Arduino Nano
