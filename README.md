@@ -47,7 +47,7 @@ The following are all the parts that are required for both the arm and glove, wh
 - Arduino HC-05
 - Braided Cable Sleeve
 
-## Glove Material Explanation
+## In Depth - Glove Materials
 ### What sensors will be used by the glove?
 It will make use of flex sensors as well as an accelerometer (MPU6050). A change in the glove will be detected by the flex sensors. It will then communicate a certain value mapped to a gesture to the robotic arm via Bluetooth to then drive a servo motor.
 - Flex Sensors - The resistance of this plastic piece changes according on the degree of bend, altering the current. This measurement is then utilised to identify variations in hand movement.
