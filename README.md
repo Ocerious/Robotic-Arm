@@ -67,3 +67,11 @@ The Arduino Robotic Arm communicates over Bluetooth using the HC-05 modules.
 | Robotics Arm HC-05   | Slave         |
 
 ## In Depth - Arm Materials
+### What sensors will be used by the arm?
+The arm uses 
+
+#### The arm consists of the following components:
+- Servo Motors - 
+- Arduino UNO -
+- Arduino HC-05 - 
+- NEMA 17 Stepper Motor - 
